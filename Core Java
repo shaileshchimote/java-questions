@@ -1,0 +1,30 @@
+1. How to create immutable object for the given java class? Assuming 4 attributes (Name datatype-String,Address datatype-List of Address object,datatype-Emp Id,DOB)
+2. Why abstract class has constructor?
+3. Explain difference between final ,finally and finalize with an example/live scenario.
+4. Explain behaviour of final at class level,method level, member variable level.
+5. How to add custom object in hashmap as a key and value as same object?
+6. What are the rules for method overloading and method overriding?
+7. Can method overloading possible in parent-child relationship?
+8. Can we remove object from List while iterating ? If yes then how and if no then why?
+9. What is the difference between these thread methods -sleep(),Yield(),wait()?
+10.What is difference between comparator and comparable interface?In what scenarios you will use them?
+11.When to use ArrayList VS LinkedList?
+12. What is difference between synchronized block and synchronized method?Which is performance oriented?
+13.Identify max value from an integer type array ?
+14.What is difference between String,StringBuffer,StringBuilder?Which one is faster?When to use each type?
+15. DB question -Write Sql query to find third largest salary from employee table.
+16. DB question -What is difference between primary key and unique key?
+17. DB question -What are the types of joins in sql?
+ 
+ 
+ 
+Additional questions for 5 years
+1. What is difference between hashtable and concurrenthashmap? why concurrenthashmap has better performance over hashtable?
+2. What are the contracts between equals and hashcode?
+3. What is volatile keyword? when you will use this?
+4. What type of variables we can not serialize?
+5. What is externalizable interface? what are the methods we need use from this interface?
+6. How to override static methods?
+7. Where String immutablity used ? any scenario?
+8. Why String and Integer type are good candidate as a key in hashmap?
+9. How substring works internally?
